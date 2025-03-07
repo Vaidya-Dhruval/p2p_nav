@@ -21,7 +21,7 @@ Before starting, ensure the following:
 
 ### Step 1: Set Up the Robot Bringup (Simulated or Real)
 
-To bring up the robot and initialize all the components, including sensors, actuators, and communication, use the following launch command. This prepares the robot system for interaction.
+To bring up the robot and initialize all the components.
 
 ```bash
 ros2 launch rox_bringup bringup_sim_launch.py
